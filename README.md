@@ -14,3 +14,5 @@ Pursuing a role as a Quality Assurance Engineer / Software Tester, I offer a dis
 I have completed the QA Manual Engineer course at the IT school GoIT Romania and got relevant knowledge. I know how to work with testing documentation such as: test-plan, test-strategy, test-case, bug-reports and other kinds of documentation. I have experience in Jira, Trello, Postman, Testrail, Dbeaver and SQL. I have tested some web-applications and taken part in a successful cross functional team project.</p>
 
 ### <p align="center"><a href="https://github.com/MihaiIonutAlexandru/PORTFOLIO" target="_blank">:point_right: Visit my <b>PORTFOLIO</b> repository</a></p>
+
+<p align="center"><img src="https://i.imgur.com/G8GE1Xw.png" alt="Software Tester" width="70%" height="70%"></p>
